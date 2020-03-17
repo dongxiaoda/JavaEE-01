@@ -78,7 +78,6 @@
           <tr>
             <td></td>
             <td>
-
               <input type="submit" value="添加学生信息"/>
             </td>
           </tr>

@@ -20,7 +20,6 @@
       /*border: black;*/
       margin: 0 auto;
       text-align: center;
-
     }
   </style>
 </head>
@@ -34,7 +33,6 @@
     <button onclick="location.href='Student'" type="button">教师登录</button>
   </fieldset>
 </div>
-
 </button>
 </body>
 </html>

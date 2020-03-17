@@ -77,10 +77,9 @@
         <td><br></td>
       </tr>
       <tr>
-        <td></td>
+        <td><input type="button" name="Submit" onclick="history.back();" value="返回上一页"></td>
         <td>
-          <input type="button" name="Submit" onclick="history.back();" value="返回上一页">&nbsp;
-          <button onclick="location.href='index.jsp'" type="button">返回首页</button>&ensp;
+          &ensp;<button onclick="location.href='index.jsp'" type="button">返回首页</button>&ensp;
           <input type="submit" value="提交作业"/>
         </td>
       </tr>
